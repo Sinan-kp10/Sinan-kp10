@@ -69,7 +69,9 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1500&color=00C4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+<sub>💻 Code • 📚 Learn • 🚀 Build • 🔁 Repeat</sub>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 

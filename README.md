@@ -36,14 +36,13 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 <img src="https://skillicons.dev/icons?i=typescript,git,github,vscode,postman" />
 </p>
 
-## 💡 What I Enjoy
+## 🚀 Development Focus
 
 - 🌐 Building Full Stack Web Applications
-- ⚙️ Designing REST APIs
-- 🗄️ Database Design & Management
-- 🎨 Creating Responsive User Interfaces
-- 🧩 Solving Real-World Problems
-- 🚀 Writing Clean & Maintainable Code
+- 🏗️ Scalable Backend Architecture
+- 🔒 Developing Secure REST APIs
+- 🎨 Responsive User Interface Development
+- 🛠️ Writing Clean & Maintainable Code
 
 ## 📈 GitHub Streak
 

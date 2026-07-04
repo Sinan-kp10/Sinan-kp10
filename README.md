@@ -6,19 +6,15 @@
 
 Building modern web applications with clean architecture, scalable backend systems, and intuitive user experiences.
 
-<img src="https://komarev.com/ghpvc/?username=Sinan-kp10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sinan-kp10&style=for-the-badge&color=blueviolet" />
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack MERN Developer who enjoys turning ideas into real-world web applications. I focus on writing clean, maintainable code while building responsive user interfaces and scalable backend systems.
+I'm a passionate **Full Stack MERN Developer** who enjoys turning ideas into real-world web applications. I focus on writing clean, maintainable code while building responsive user interfaces and scalable backend systems.
 
 I enjoy learning new technologies, solving challenging problems, and continuously improving my development skills.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +36,6 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 <img src="https://skillicons.dev/icons?i=typescript,git,github,vscode,postman" />
 </p>
 
----
-
 ## 💡 What I Enjoy
 
 - 🌐 Building Full Stack Web Applications
@@ -51,35 +45,29 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 - 🧩 Solving Real-World Problems
 - 🚀 Writing Clean & Maintainable Code
 
----
-
 ## 📈 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sinan-kp10&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammed-sinan-kp-853057383">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sinankp9503@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/muhammed-sinan-kp-853057383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sinankp9503@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
----
 
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"Code • Learn • Build • Repeat"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 

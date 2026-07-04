@@ -66,7 +66,7 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1500&color=00C4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!" alt="Typing SVG" />
 </p>
 
 *"Code • Learn • Build • Repeat"*

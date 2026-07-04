@@ -65,7 +65,9 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" />
+</p>
 
 *"Code • Learn • Build • Repeat"*
 

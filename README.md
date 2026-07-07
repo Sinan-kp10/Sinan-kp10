@@ -44,12 +44,6 @@ I enjoy learning new technologies, solving challenging problems, and continuousl
 - 🎨 Responsive User Interface Development
 - 🛠️ Writing Clean & Maintainable Code
 
-## 📈 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sinan-kp10&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
